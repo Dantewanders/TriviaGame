@@ -57,7 +57,8 @@ App requires Auth login
 ![Trivia_Genius_Userflow](https://user-images.githubusercontent.com/121504846/236225959-93cec261-d121-416a-89d7-0f33fb8ad735.png)
 
 <h3 align="left">Database Schema</h3>
-![TG_DB_Schema](https://user-images.githubusercontent.com/121504846/236225617-e2fe1341-e902-4339-9fcc-484b91f3edb7.png)
+
+![TG_DB_Schema](https://user-images.githubusercontent.com/121504846/236226826-c0ba7e83-edda-45e6-bb73-8eabb48c5c1e.png)
 
 
 <h3 align="left">Figma View</h3>
