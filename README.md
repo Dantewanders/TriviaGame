@@ -1,5 +1,5 @@
 <h1 align="center">
- TRivia Genius </h1>
+ Trivia Genius </h1>
 <h3 align="center">👋
  This is our Group project for JRS Coding Bootcamp. 👋</h3>
 
