@@ -53,16 +53,20 @@ App requires Auth login
 <h3 align="left">Development</h3>
 
 <h3 align="left">User Flow Diagram</h3> 
-![User Flow Diagram](ui/src/assets/Trivia_Genius_Userflow.png)
+
+![Trivia_Genius_Userflow](https://user-images.githubusercontent.com/121504846/236225959-93cec261-d121-416a-89d7-0f33fb8ad735.png)
 
 <h3 align="left">Database Schema</h3>
-![Schema](ui/src/assets/TG_DB_Schema.png)
+![TG_DB_Schema](https://user-images.githubusercontent.com/121504846/236225617-e2fe1341-e902-4339-9fcc-484b91f3edb7.png)
+
 
 <h3 align="left">Figma View</h3>
-![Figma](ui/src/assets/TG_Figma.png)
+
+![TG_Figma](https://user-images.githubusercontent.com/121504846/236225485-a3b09260-2bd8-409f-9da9-1e5ec59873bc.png)
 
 <h3 align="left">Rules Page</h3>
-![Schema](ui/src/assets/TG_rules_page.jpg)
+
+![Trivia Genius- rules page](https://user-images.githubusercontent.com/121504846/236225741-79765c6b-f80d-4b88-9e87-0c6ab699a59c.jpg)
 
 https://github.com/Dantewanders
 <h3 align="left">Connect with me:</h3>
